@@ -1,4 +1,4 @@
-# Predicting Diabetes
+# Predicting whether an individual has Diabetes using the Random Forest Classification Model in ML
 
 In this project, I wanted to predict whether a patient would have Diabetes or not according to some given features such as glucose concentartion, diatolic_bp, thickness, bmi etc...
 
